@@ -1,0 +1,15 @@
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\console-app.exe
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\console-app.deps.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\console-app.runtimeconfig.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\console-app.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\ref\console-app.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\console-app.pdb
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.csproj.AssemblyReference.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.AssemblyInfoInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.AssemblyInfo.cs
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.csproj.CoreCompileInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\ref\console-app.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.pdb
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\obj\Release\net6.0\console-app.genruntimeconfig.cache

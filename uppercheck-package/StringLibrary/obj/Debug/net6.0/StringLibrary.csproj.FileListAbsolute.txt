@@ -1,0 +1,12 @@
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\uppercheck-package\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb

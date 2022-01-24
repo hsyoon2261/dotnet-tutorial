@@ -1,0 +1,5 @@
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\publish\console-app.exe
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\publish\console-app.dll
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\publish\console-app.deps.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\publish\console-app.runtimeconfig.json
+C:\Users\Heesang Yoon\Desktop\project_tuto\dotnet\dotnet-tutorial\console-app\bin\Release\net6.0\publish\console-app.pdb
